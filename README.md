@@ -102,7 +102,8 @@ Finally, I learned to use the OpenFrameworks particle system and completed the w
 ## Achievements
 
 <div align=center>
-<img src="https://github.com/AnnDkk/Coding2-Final-Project/blob/main/image/IMG_4375.JPG" width="500" height="300">
+        <img src="https://github.com/AnnDkk/Coding2-Final-Project/blob/main/image/WechatIMG472.png" width="400" height="300"><img src="https://github.com/AnnDkk/Coding2-Final-Project/blob/main/image/WechatIMG464.png" width="400" height="300">
+<img src="https://github.com/AnnDkk/Coding2-Final-Project/blob/main/image/WechatIMG470.png" width="400" height="300">
 </div>
 
 
