@@ -70,7 +70,7 @@ Finally, I learned to use the OpenFrameworks particle system and completed the w
         
         
 <div align=center>
-<img src="https://github.com/AnnDkk/Coding2-Final-Project/blob/main/image/IMG_4375.JPG" width="500" height="300">
+<img src="https://github.com/AnnDkk/Coding2-Final-Project/blob/main/image/IMG_4375.JPG" width="400" height="300"><img src="https://github.com/AnnDkk/Coding2-Final-Project/blob/main/image/WechatIMG474.png" width="400" height="300">
 </div>
         
 
